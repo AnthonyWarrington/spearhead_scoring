@@ -1,2 +1,2 @@
 # spearhead_scoring
-For tracking scoring games of Age of Sigmar: Spearhead
+For tracking scoring of games of Age of Sigmar: Spearhead
