@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/src/">
+    <Project Path="src/CLISpearhead/CLISpearhead.csproj" />
     <Project Path="src/SpearheadScoringLibrary/SpearheadScoringLibrary.csproj" />
   </Folder>
   <Folder Name="/test/">
