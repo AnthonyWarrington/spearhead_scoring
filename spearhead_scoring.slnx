@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SpearheadScoringLibrary/SpearheadScoringLibrary.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/SpearheadScoringLibraryTest/SpearheadScoringLibraryTest.csproj" />
+  </Folder>
+</Solution>
